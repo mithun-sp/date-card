@@ -1,9 +1,12 @@
+# Datecard
+This project uses a json file containing dates and the prices on corresponding dates and displays them.
+
+# Live demo
+https://magical-cendol-caf631.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Live here
-https://magical-cendol-caf631.netlify.app
 
 ## Available Scripts
 
